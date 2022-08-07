@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-    return "Hello, World with pre-commit!"
+    return "Hello, World with pre-commit2!"
 
 
 if __name__ == "__main__":
