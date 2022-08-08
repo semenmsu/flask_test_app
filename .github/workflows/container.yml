@@ -1,7 +1,7 @@
 on:
   push:
     tags:
-      - 'v*.*.*'
+      - 'v*.*.*-prod'
 jobs:
   test:
     runs-on: ubuntu-latest
