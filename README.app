@@ -11,6 +11,8 @@
 
 ### Naming
 - 1.1.12-trading-prod
+- 1.1.12-trading-rc
 - 1.1.12-trading-test
 - 1.1.12-market-data-prod
+- 1.1.12-makret-data-rc
 - 1.1.12-market-data-test
